@@ -13,7 +13,7 @@ cd anonymous-messaging-tool
 
 
 
-*bash k.py 
+*python3 k.py 
 
 
 If need help then msg me on insta id hackers__tech
