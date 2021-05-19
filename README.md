@@ -4,16 +4,18 @@ Type
 Command to install tool
 
 
-git clone https://github.com/Hckers-Tech/anonymous-messaging-tool
+#git clone https://github.com/Hckers-Tech/anonymous-messaging-tool
 
 
 
-cd anonymous-messaging-tool
+#cd anonymous-messaging-tool
 
 
 
 
-*python3 k.py 
+
+
+*#python3 k.py 
 
 
 If need help then msg me on insta id hackers__tech
