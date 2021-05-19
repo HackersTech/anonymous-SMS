@@ -2,7 +2,10 @@
 Hi frd's here you get anonymous msging tool for termux or linux or etc you can use one time in a day for free plans 😊
 Type 
 Command to install tool
-git clone 
+
+
+git clone https://github.com/Hckers-Tech/anonymous-messaging-tool
+
 
 
 cd anonymous-messaging-tool
