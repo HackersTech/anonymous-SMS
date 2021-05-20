@@ -1,4 +1,4 @@
-# anonymous-messaging-tool
+# anonymous-messaging
 ## Hi frd's here you get anonymous msging tool for termux or linux or etc you can use one time in a day for free 😊
 ### One free jpg photo has been steghided so
 
