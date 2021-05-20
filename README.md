@@ -48,7 +48,7 @@ Links
 **rm -rf hacker.jpg**
 
 ## If you want to open that enjoy new tool so type command
-**steghide --extract -sf hacker.jpg**
+- **steghide --extract -sf hackers.jpg**
 
 - It ask for passwd == tool
 And it will extracted!!!!
