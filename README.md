@@ -19,7 +19,7 @@ Command to install tool
 
 
 
- >cd anonymous-messaging-tool'
+ >cd anonymous-SMS
 
 
 
