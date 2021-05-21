@@ -1,5 +1,6 @@
 import requests
 import json
+import pyfiglet
 from os import system as s
 print ("\033[1;32;40m] tool made by Hackers Tech:-")
 banner = """
@@ -11,6 +12,7 @@ banner = """
                     ## 
 """
 print(banner)
+a=pyfiglet.figlet_format("HACKERS \n TECH")
 number = input("enter number with + code etc what ever you hve for india code is +91 !!!\n ->")
 
 Message = input("\n enter Message")
