@@ -1,5 +1,6 @@
 import requests
 import json
+from datetime import datetime
 import pyfiglet
 from os import system as s
 print ("\033[1;32;40m] tool made by Hackers Tech:-")
@@ -12,6 +13,8 @@ banner = """
                     ## 
 """
 print(banner)
+print ("-"*50)
+print("date and time & millisecond " ,datetime.now)
 a=pyfiglet.figlet_format("HACKERS \n TECH")
 number = input("enter number with + code etc what ever you hve for india code is +91 !!!\n ->")
 
