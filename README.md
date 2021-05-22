@@ -30,7 +30,9 @@ Command to install tool
 
 
 >bash sms.sh
-OR
+
+
+- OR
 >python3 k.py
 
 <br>
