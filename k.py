@@ -17,7 +17,7 @@ print ("-"*50)
 print("date and time & millisecond " ,datetime.now)
 a=pyfiglet.figlet_format("HACKERS \n TECH")
 number = input("enter number with + code etc what ever you hve for india code is +91 !!!\n ->")
-
+print (a)
 Message = input("\n enter Message")
 k=Message[0:70]
 
