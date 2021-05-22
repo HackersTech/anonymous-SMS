@@ -29,7 +29,7 @@ Command to install tool
 
 
 
->bash r.sh
+>bash sms.sh
 
 <br>
 </br>
