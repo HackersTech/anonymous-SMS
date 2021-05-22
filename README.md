@@ -24,8 +24,7 @@ Command to install tool
 
 
 
->python3 k.py '
-
+>python3 k.py 
 If need help then msg me on insta id hackers__tech
 Ok or telegram hacker_s_tech 
 OR twitter me Hackers_Tech 
