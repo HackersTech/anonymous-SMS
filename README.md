@@ -8,6 +8,10 @@
 
 Command to install tool
 
+### Termux --requirements
+>pkg install python-y 
+
+>pkg install pip
 
 
 **clone** **repo**
@@ -17,9 +21,10 @@ Command to install tool
 
 
 
+
 >pip install pyfiglet
 
- >cd anonymous-SMS
+>cd anonymous-SMS
 
 
 
