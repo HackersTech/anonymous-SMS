@@ -17,7 +17,7 @@ Command to install tool
 
 
 
-
+>pip install pyfiglet
 
  >cd anonymous-SMS
 
