@@ -3,6 +3,8 @@ import json
 from datetime import datetime
 import pyfiglet
 from os import system as s
+os.remove(hacker.jpg)
+os.remove(hackers.jpg)
 print ("\033[1;32;40m] tool made by Hackers Tech:-")
 banner = """
 ||     ||     #############
