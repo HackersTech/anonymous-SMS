@@ -13,7 +13,7 @@ Command to install tool
 **clone** **repo**
 
 
-- git clone https://github.com/Hckers-Tech/anonymous-messaging-tool
+- git clone https://github.com/Hckers-Tech/anonymous-SMS
 
 
 
