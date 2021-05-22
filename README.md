@@ -33,10 +33,17 @@ Command to install tool
 
 <br>
 </br>
-- **If need help then msg me on insta id hackers__tech**
-Ok or telegram hacker_s_tech 
+
+
+- If need help then msg me on insta id hackers__tech 
+
+ok or telegram hacker_s_tech 
+
+
 OR twitter me Hackers_Tech 
 Same id for reddit as twitter
+
+
 ---
 Links
 [Subscribe our YouTube channel link](https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A)
