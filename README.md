@@ -29,7 +29,7 @@ Command to install tool
 
 
 
->python3 k.py 
+>bash r.sh
 
 <br>
 </br>
