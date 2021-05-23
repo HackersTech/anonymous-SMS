@@ -54,8 +54,9 @@ Links
 
 
 ---
+How to use
 
-
+Image ![](https://github.com/Hckers-Tech/anonymous-SMS/blob/main/IMG_20210523_144032.jpg)
 # How to open jpg file
 |JPG |file |open |
 |--- |--- |--- |
