@@ -14,7 +14,7 @@ Command to install tool
 
 >pkg install pip
 
-**For Linux just do these** -
+### For Linux just do these -
 **clone** **repo**
 
 
