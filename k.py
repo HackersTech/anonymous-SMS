@@ -16,8 +16,9 @@ bn='''
                     ##
 '''
 print(bn)
+print(a)
 number = input("\033[1;32;40m] enter number with + code etc what ever you hve for india code is +91 !!!\n ->")
-print (a)
+
 Message = input("\n enter Message")
 k=Message[0:70]
 
