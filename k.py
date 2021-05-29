@@ -4,15 +4,6 @@ from datetime import datetime
 import pyfiglet
 
 print ("\033[1;32;40m] tool made by Hackers Tech:-")
-banner = """
-||     ||     #############
-||     ||           ##
-||=====||           ##
-||     ||           ##
-||     ||           ##
-                    ## 
-"""
-print(banner)
 print ("-"*50)
 print("date and time & millisecond " ,datetime.now)
 a=pyfiglet.figlet_format("HACKERS \n TECH")
