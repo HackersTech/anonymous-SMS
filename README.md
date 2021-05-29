@@ -21,6 +21,7 @@ Command to install tool
 - git clone https://github.com/Hckers-Tech/anonymous-SMS
 
 
+>apt-get install figlet lolcat
 
 >pip install requests
 
