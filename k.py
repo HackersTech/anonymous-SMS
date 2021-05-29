@@ -2,11 +2,20 @@ import requests
 import json
 from datetime import datetime
 import pyfiglet
-
 print ("\033[1;32;40m] tool made by Hackers Tech:-")
 print ("-"*50)
 print("date and time & millisecond " ,datetime.now)
 a=pyfiglet.figlet_format("HACKERS \n TECH")
+print("\033[31m also follow us on instagram id ")
+bn='''
+||     ||      ############
+||     ||           ##
+||=====||           ##
+||     ||           ##
+||     ||           ##
+                    ##
+'''
+print(bn)
 number = input("enter number with + code etc what ever you hve for india code is +91 !!!\n ->")
 print (a)
 Message = input("\n enter Message")
