@@ -6,6 +6,7 @@ print ("\033[1;32;40m] tool made by Hackers Tech:-")
 print ("-"*50)
 print("date and time & millisecond " ,datetime.now)
 a=pyfiglet.figlet_format("HACKERS \n TECH")
+print(a)
 print("\033[91m also follow us on instagram id ")
 bn='''
 ||     ||      ############
@@ -16,7 +17,6 @@ bn='''
                     ##
 '''
 print(bn)
-print(a)
 number = input("\033[1;32;40m] enter number with + code etc what ever you hve for india code is +91 !!!\n ->")
 
 Message = input("\n enter Message")
