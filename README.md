@@ -2,8 +2,6 @@
 ## Hi frd's here you get anonymous msging tool for termux or linux or etc you can use one time in a day for free 😊
 ### One free jpg photo has been steghided so
 
-**.jpg You will open it's your choice. You can read in last to open that encrpted file.**
-
 
 ---
 
@@ -55,22 +53,13 @@ Links
 
 
 ---
-How to use
+**How to use
 
 Image ![](https://github.com/Hckers-Tech/anonymous-SMS/blob/main/IMG_20210523_144032.jpg)
-# How to open jpg file
-|JPG |file |open |
+---
+|share|our|repo |
 |--- |--- |--- |
-|pass|== =|tool|
-## file is downloaded when you git clone repo 
-- You can remove that file if you r not intersted in it
+|plss| ...|....|
 
-**rm -rf hacker.jpg**
-
-## If you want to open that enjoy new tool so type command
-- **steghide --extract -sf hackers.jpg**
-
-- It ask for passwd == tool
-And it will extracted!!!!
 
 ---
