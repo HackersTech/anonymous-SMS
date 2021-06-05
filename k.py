@@ -4,7 +4,12 @@ from datetime import datetime
 import pyfiglet
 print ("\033[1;32;40m] tool made by Hackers Tech:-")
 print ("-"*50)
-print("date and time & millisecond " ,datetime.now)
+print("date and time & millisecond " ,datetime.now())
+p=datetime.now()
+print ("\033[93m .")
+print ("year=",p.year,"month 0",p.month,"day",p.day)
+print ("hour",p.hour,"minutes",p.minute)
+print ("\033[1;32;40m hi ")
 a=pyfiglet.figlet_format("HACKERS \n TECH")
 print(a)
 print("\033[91m also follow us on instagram id ")
