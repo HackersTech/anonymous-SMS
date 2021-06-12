@@ -12,6 +12,8 @@ Command to install tool
 >pkg install git
 
 >pkg install ruby
+ 
+>gem install lolcat
 
 >pkg install pip
 
