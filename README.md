@@ -7,8 +7,12 @@
 Command to install tool
 
 ### Termux --requirements
->pkg install python-y 
+>pkg install python
+
+>pkg install git
+
 >pkg install ruby
+
 >pkg install pip
 
 ### For Linux just do these -
