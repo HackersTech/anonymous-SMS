@@ -1,5 +1,5 @@
 
-<a href="india"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href=""><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
 ![Ht](https://img.shields.io/badge/Made%20in-India-orange)
@@ -49,9 +49,11 @@ Command to install tool
 </br>
 
 
-- If need help then msg me on insta id hackers__tech 
+- If need help then msg me on instagram id
 
-ok or telegram hacker_s_tech 
+![Instagram](https://img.shields.io/badge/INSTAGRAM-For-Help-red?style=for-the-badge&logo=instagram)(https://instagram.com/hackers__tech?utm_medium=copy_link)
+
+hacker_s_tech 
 
 
 OR twitter me Hackers_Tech 
