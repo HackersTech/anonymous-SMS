@@ -51,9 +51,9 @@ Command to install tool
 
 - If need help then msg me on instagram id
 
-![Instagram](https://img.shields.io/badge/INSTAGRAM-For-Help-red?style=for-the-badge&logo=instagram)(https://instagram.com/hackers__tech?utm_medium=copy_link)
-
-hacker_s_tech 
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-ForHelp-red?style=for-the-badge&logo=instagram)](
+https://instagram.com/hackers__tech?utm_medium=copy_link)
+[![TL](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/hacker_s_tech)
 
 
 OR twitter me Hackers_Tech 
