@@ -54,9 +54,9 @@ Command to install tool
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-ForHelp-red?style=for-the-badge&logo=instagram)](
 https://instagram.com/hackers__tech?utm_medium=copy_link)
 [![TL](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/hacker_s_tech)
+[![TL](https://img.shields.io/badge/Twitter-account-red?style=for-the-badge&logo=Twitter)](https://twitter.com/HackersTech1?s=09)
 
 
-OR twitter me Hackers_Tech 
 Same id for reddit as twitter
 
 
