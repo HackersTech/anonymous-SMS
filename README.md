@@ -29,7 +29,7 @@ Command to install tool
 **clone** **repo**
 
 
-- git clone https://github.com/Hckers-Tech/anonymous-SMS
+- git clone https://github.com/HackersTech/anonymous-SMS
 
 
 >apt-get install figlet lolcat
