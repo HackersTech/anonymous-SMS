@@ -15,15 +15,17 @@
 Command to install tool
 
 ### Termux --requirements
->pkg install python
+```
+pkg install python
 
->pkg install git
+pkg install git
 
->pkg install ruby
+pkg install ruby
  
->gem install lolcat
+gem install lolcat
 
->pkg install pip
+pkg install pip
+```
 
 ### For Linux just do these -
 **clone** **repo**
